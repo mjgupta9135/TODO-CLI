@@ -10,7 +10,9 @@ A command-line interface (CLI) tool for managing ToDo items using Node.js. This 
 - **List**: List all ToDo items with their status.
 
 ## Screenshots
-![TODO CLI](image1).png)
+
+![TODO CLI](image.png)
+
 
 
 ## Installation
